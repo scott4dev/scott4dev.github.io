@@ -1,0 +1,2338 @@
+{
+    "liveEvents": [
+        {
+            "event": {
+                "name": "Real Betis U19 - Sevilla U19",
+                "homeName": "Real Betis U19",
+                "awayName": "Sevilla U19",
+                "start": "2020-12-24T09:59Z",
+                "group": "Division de Honor Juvenil",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182586,
+                "groupId": 2000056488,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461813,
+                        "name": "Spain",
+                        "englishName": "Spain"
+                    },
+                    {
+                        "id": 2000056488,
+                        "name": "Division de Honor Juvenil",
+                        "englishName": "Division de Honor Juvenil"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182586,
+                "open": true,
+                "matchClock": {
+                    "minute": 20,
+                    "second": 40,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 1
+                        },
+                        "away": {
+                            "yellowCards": 1,
+                            "redCards": 0,
+                            "corners": 2
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241885020,
+                "eventId": 1007182586,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844329828,
+                        "odds": 2500,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:17:57Z",
+                        "participant": "Real Betis U19",
+                        "oddsFractional": "6/4",
+                        "oddsAmerican": "150"
+                    },
+                    {
+                        "id": 2844329829,
+                        "odds": 3250,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:17:57Z",
+                        "oddsFractional": "9/4",
+                        "oddsAmerican": "225"
+                    },
+                    {
+                        "id": 2844329830,
+                        "odds": 2700,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:17:57Z",
+                        "participant": "Sevilla U19",
+                        "oddsFractional": "17/10",
+                        "oddsAmerican": "170"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Tajikistan U19 - Iran U19",
+                "homeName": "Tajikistan U19",
+                "awayName": "Iran U19",
+                "start": "2020-12-24T09:01Z",
+                "group": "Under 19",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182589,
+                "groupId": 2000057396,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000242145,
+                        "name": "International Youth Friendlies",
+                        "englishName": "International Youth Friendlies"
+                    },
+                    {
+                        "id": 2000057396,
+                        "name": "Under 19",
+                        "englishName": "Under 19"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182589,
+                "open": true,
+                "matchClock": {
+                    "minute": 63,
+                    "second": 37,
+                    "running": true,
+                    "period": "2nd half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "1",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 4,
+                            "redCards": 0,
+                            "corners": 1
+                        },
+                        "away": {
+                            "yellowCards": 2,
+                            "redCards": 0,
+                            "corners": 3
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241816846,
+                "eventId": 1007182589,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844121354,
+                        "odds": 31000,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:13:59Z",
+                        "participant": "Tajikistan U19",
+                        "oddsFractional": "30/1",
+                        "oddsAmerican": "3000"
+                    },
+                    {
+                        "id": 2844121356,
+                        "odds": 7500,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:13:59Z",
+                        "oddsFractional": "13/2",
+                        "oddsAmerican": "650"
+                    },
+                    {
+                        "id": 2844121358,
+                        "odds": 1100,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:13:59Z",
+                        "participant": "Iran U19",
+                        "oddsFractional": "1/10",
+                        "oddsAmerican": "-1000"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Urawa Red Diamonds (W) - Albirex Niigata (W)",
+                "homeName": "Urawa Red Diamonds (W)",
+                "awayName": "Albirex Niigata (W)",
+                "start": "2020-12-24T09:04Z",
+                "group": "Empress's Cup (W)",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182588,
+                "groupId": 2000107941,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461746,
+                        "name": "Japan",
+                        "englishName": "Japan"
+                    },
+                    {
+                        "id": 2000107941,
+                        "name": "Empress's Cup (W)",
+                        "englishName": "Empress's Cup (W)"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182588,
+                "open": true,
+                "matchClock": {
+                    "minute": 60,
+                    "second": 25,
+                    "running": true,
+                    "period": "2nd half"
+                },
+                "score": {
+                    "home": "1",
+                    "away": "1",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 4
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 1
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241816825,
+                "eventId": 1007182588,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844121254,
+                        "odds": 1670,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:19:51Z",
+                        "participant": "Urawa Red Diamonds (W)",
+                        "oddsFractional": "4/6",
+                        "oddsAmerican": "-150"
+                    },
+                    {
+                        "id": 2844121256,
+                        "odds": 2750,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:19:51Z",
+                        "oddsFractional": "7/4",
+                        "oddsAmerican": "175"
+                    },
+                    {
+                        "id": 2844121258,
+                        "odds": 8000,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:19:51Z",
+                        "participant": "Albirex Niigata (W)",
+                        "oddsFractional": "7/1",
+                        "oddsAmerican": "700"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Çankaya FK - Nevşehir Belediye Spor",
+                "homeName": "Çankaya FK",
+                "awayName": "Nevşehir Belediye Spor",
+                "start": "2020-12-24T09:59Z",
+                "group": "3. Ligi",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007168664,
+                "groupId": 2000050304,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461821,
+                        "name": "Turkey",
+                        "englishName": "Turkey"
+                    },
+                    {
+                        "id": 2000050304,
+                        "name": "3. Ligi",
+                        "englishName": "3. Ligi"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007168664,
+                "open": true,
+                "matchClock": {
+                    "minute": 21,
+                    "second": 9,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 2
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241774227,
+                "eventId": 1007168664,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2843921201,
+                        "odds": 3050,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:17:23Z",
+                        "participant": "Çankaya FK",
+                        "oddsFractional": "41/20",
+                        "oddsAmerican": "205"
+                    },
+                    {
+                        "id": 2843921203,
+                        "odds": 2750,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:17:23Z",
+                        "oddsFractional": "7/4",
+                        "oddsAmerican": "175"
+                    },
+                    {
+                        "id": 2843921205,
+                        "odds": 2600,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:17:23Z",
+                        "participant": "Nevşehir Belediye Spor",
+                        "oddsFractional": "8/5",
+                        "oddsAmerican": "160"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Kemerspor - Bucaspor",
+                "homeName": "Kemerspor",
+                "awayName": "Bucaspor",
+                "start": "2020-12-24T09:59Z",
+                "group": "3. Ligi",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007185044,
+                "groupId": 2000050304,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461821,
+                        "name": "Turkey",
+                        "englishName": "Turkey"
+                    },
+                    {
+                        "id": 2000050304,
+                        "name": "3. Ligi",
+                        "englishName": "3. Ligi"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007185044,
+                "open": true,
+                "matchClock": {
+                    "minute": 20,
+                    "second": 46,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 1
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241877062,
+                "eventId": 1007185044,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844334153,
+                        "odds": 5750,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:17:43Z",
+                        "participant": "Kemerspor",
+                        "oddsFractional": "19/4",
+                        "oddsAmerican": "475"
+                    },
+                    {
+                        "id": 2844334154,
+                        "odds": 4250,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:17:43Z",
+                        "oddsFractional": "13/4",
+                        "oddsAmerican": "325"
+                    },
+                    {
+                        "id": 2844334155,
+                        "odds": 1460,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:17:43Z",
+                        "participant": "Bucaspor",
+                        "oddsFractional": "4/9",
+                        "oddsAmerican": "-220"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Somaspor - Osmaniyespor",
+                "homeName": "Somaspor",
+                "awayName": "Osmaniyespor",
+                "start": "2020-12-24T10:00Z",
+                "group": "3. Ligi",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007168678,
+                "groupId": 2000050304,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461821,
+                        "name": "Turkey",
+                        "englishName": "Turkey"
+                    },
+                    {
+                        "id": 2000050304,
+                        "name": "3. Ligi",
+                        "englishName": "3. Ligi"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007168678,
+                "open": true,
+                "matchClock": {
+                    "minute": 20,
+                    "second": 21,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "1",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 1
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241885102,
+                "eventId": 1007168678,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844330147,
+                        "odds": 3050,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:18:41Z",
+                        "participant": "Somaspor",
+                        "oddsFractional": "41/20",
+                        "oddsAmerican": "205"
+                    },
+                    {
+                        "id": 2844330150,
+                        "odds": 4000,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:18:41Z",
+                        "oddsFractional": "3/1",
+                        "oddsAmerican": "300"
+                    },
+                    {
+                        "id": 2844330154,
+                        "odds": 1980,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:18:41Z",
+                        "participant": "Osmaniyespor",
+                        "oddsFractional": "49/50",
+                        "oddsAmerican": "-103"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Karşıyaka - Yeni Altindag Belediyespor",
+                "homeName": "Karşıyaka",
+                "awayName": "Yeni Altindag Belediyespor",
+                "start": "2020-12-24T10:00Z",
+                "group": "3. Ligi",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007168677,
+                "groupId": 2000050304,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461821,
+                        "name": "Turkey",
+                        "englishName": "Turkey"
+                    },
+                    {
+                        "id": 2000050304,
+                        "name": "3. Ligi",
+                        "englishName": "3. Ligi"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007168677,
+                "open": true,
+                "matchClock": {
+                    "minute": 19,
+                    "second": 51,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241765802,
+                "eventId": 1007168677,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2843965091,
+                        "odds": 1350,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:18:13Z",
+                        "participant": "Karşıyaka",
+                        "oddsFractional": "7/20",
+                        "oddsAmerican": "-286"
+                    },
+                    {
+                        "id": 2843965093,
+                        "odds": 4000,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:18:13Z",
+                        "oddsFractional": "3/1",
+                        "oddsAmerican": "300"
+                    },
+                    {
+                        "id": 2843965095,
+                        "odds": 10000,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:18:13Z",
+                        "participant": "Yeni Altindag Belediyespor",
+                        "oddsFractional": "9/1",
+                        "oddsAmerican": "900"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Catalcaspor - Kasimpasa Erokspor",
+                "homeName": "Catalcaspor",
+                "awayName": "Kasimpasa Erokspor",
+                "start": "2020-12-24T10:01Z",
+                "group": "3. Ligi",
+                "type": "ET_MATCH",
+                "sport": "FOOTBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007168672,
+                "groupId": 2000050304,
+                "path": [
+                    {
+                        "id": 1000093190,
+                        "name": "Football",
+                        "englishName": "Football"
+                    },
+                    {
+                        "id": 1000461821,
+                        "name": "Turkey",
+                        "englishName": "Turkey"
+                    },
+                    {
+                        "id": 2000050304,
+                        "name": "3. Ligi",
+                        "englishName": "3. Ligi"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007168672,
+                "open": true,
+                "matchClock": {
+                    "minute": 18,
+                    "second": 53,
+                    "running": true,
+                    "period": "1st half"
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "football": {
+                        "home": {
+                            "yellowCards": 1,
+                            "redCards": 0,
+                            "corners": 0
+                        },
+                        "away": {
+                            "yellowCards": 0,
+                            "redCards": 0,
+                            "corners": 0
+                        }
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241732142,
+                "eventId": 1007168672,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159858,
+                    "label": "Full Time"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2843931023,
+                        "odds": 2800,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:19:18Z",
+                        "participant": "Catalcaspor",
+                        "oddsFractional": "9/5",
+                        "oddsAmerican": "180"
+                    },
+                    {
+                        "id": 2843931026,
+                        "odds": 2700,
+                        "label": "X",
+                        "type": "OT_CROSS",
+                        "changedDate": "2020-12-24T10:19:18Z",
+                        "oddsFractional": "17/10",
+                        "oddsAmerican": "170"
+                    },
+                    {
+                        "id": 2843931027,
+                        "odds": 2800,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:19:18Z",
+                        "participant": "Kasimpasa Erokspor",
+                        "oddsFractional": "9/5",
+                        "oddsAmerican": "180"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Lazarov, Alexandar - Darderi, Luciano",
+                "homeName": "Lazarov, Alexandar",
+                "awayName": "Darderi, Luciano",
+                "start": "2020-12-24T08:38Z",
+                "group": "Antalya",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183100,
+                "groupId": 2000117964,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 2000054086,
+                        "name": "ITF Men",
+                        "englishName": "ITF Men"
+                    },
+                    {
+                        "id": 2000117964,
+                        "name": "Antalya",
+                        "englishName": "Antalya"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183100,
+                "open": true,
+                "matchClock": {
+                    "minute": 101,
+                    "second": 47,
+                    "running": true
+                },
+                "score": {
+                    "home": "15",
+                    "away": "15",
+                    "who": "HOME"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            2,
+                            6,
+                            4
+                        ],
+                        "away": [
+                            6,
+                            1,
+                            3
+                        ],
+                        "homeServe": true
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241854556,
+                "eventId": 1007183100,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844205684,
+                        "odds": 1160,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:24Z",
+                        "oddsFractional": "2/13",
+                        "oddsAmerican": "-625"
+                    },
+                    {
+                        "id": 2844205686,
+                        "odds": 4750,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:24Z",
+                        "oddsFractional": "15/4",
+                        "oddsAmerican": "375"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Ilhan, Marsel - Akkoyun, Umut",
+                "homeName": "Ilhan, Marsel",
+                "awayName": "Akkoyun, Umut",
+                "start": "2020-12-24T08:45Z",
+                "group": "Antalya",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183013,
+                "groupId": 2000117964,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 2000054086,
+                        "name": "ITF Men",
+                        "englishName": "ITF Men"
+                    },
+                    {
+                        "id": 2000117964,
+                        "name": "Antalya",
+                        "englishName": "Antalya"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183013,
+                "open": true,
+                "matchClock": {
+                    "minute": 94,
+                    "second": 39,
+                    "running": true
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            7,
+                            5,
+                            -1
+                        ],
+                        "away": [
+                            5,
+                            2,
+                            -1
+                        ],
+                        "homeServe": true
+                    }
+                }
+            }
+        },
+        {
+            "event": {
+                "name": "Kravchenko, Georgii - Cengiz, Baran",
+                "homeName": "Kravchenko, Georgii",
+                "awayName": "Cengiz, Baran",
+                "start": "2020-12-24T08:58Z",
+                "group": "Antalya",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183225,
+                "groupId": 2000117964,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 2000054086,
+                        "name": "ITF Men",
+                        "englishName": "ITF Men"
+                    },
+                    {
+                        "id": 2000117964,
+                        "name": "Antalya",
+                        "englishName": "Antalya"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183225,
+                "open": true,
+                "matchClock": {
+                    "minute": 83,
+                    "second": 19,
+                    "running": true
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "who": "UNKNOWN"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            6,
+                            3,
+                            0
+                        ],
+                        "away": [
+                            3,
+                            6,
+                            0
+                        ],
+                        "homeServe": true
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241854554,
+                "eventId": 1007183225,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844205678,
+                        "odds": 1250,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:19:02Z",
+                        "oddsFractional": "1/4",
+                        "oddsAmerican": "-400"
+                    },
+                    {
+                        "id": 2844205680,
+                        "odds": 3650,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:19:02Z",
+                        "oddsFractional": "13/5",
+                        "oddsAmerican": "265"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Alkotop, Mousa - Pietri, Benjamin",
+                "homeName": "Alkotop, Mousa",
+                "awayName": "Pietri, Benjamin",
+                "start": "2020-12-24T09:39Z",
+                "group": "Monastir",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182334,
+                "groupId": 2000117962,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 2000054086,
+                        "name": "ITF Men",
+                        "englishName": "ITF Men"
+                    },
+                    {
+                        "id": 2000117962,
+                        "name": "Monastir",
+                        "englishName": "Monastir"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182334,
+                "open": true,
+                "matchClock": {
+                    "minute": 40,
+                    "second": 48,
+                    "running": true
+                },
+                "score": {
+                    "home": "15",
+                    "away": "30",
+                    "who": "AWAY"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            1,
+                            0,
+                            -1
+                        ],
+                        "away": [
+                            6,
+                            0,
+                            -1
+                        ],
+                        "homeServe": false
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241854559,
+                "eventId": 1007182334,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844205693,
+                        "odds": 36000,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:08Z",
+                        "oddsFractional": "35/1",
+                        "oddsAmerican": "3500"
+                    },
+                    {
+                        "id": 2844205695,
+                        "odds": 1000,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:08Z",
+                        "oddsFractional": "1.00",
+                        "oddsAmerican": "1.00"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Seateun, Nathan - Erler, Alexander",
+                "homeName": "Seateun, Nathan",
+                "awayName": "Erler, Alexander",
+                "start": "2020-12-24T09:54Z",
+                "group": "Monastir",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183240,
+                "groupId": 2000117962,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 2000054086,
+                        "name": "ITF Men",
+                        "englishName": "ITF Men"
+                    },
+                    {
+                        "id": 2000117962,
+                        "name": "Monastir",
+                        "englishName": "Monastir"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183240,
+                "open": true,
+                "matchClock": {
+                    "minute": 25,
+                    "second": 51,
+                    "running": true
+                },
+                "score": {
+                    "home": "0",
+                    "away": "15",
+                    "who": "AWAY"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            3,
+                            -1,
+                            -1
+                        ],
+                        "away": [
+                            2,
+                            -1,
+                            -1
+                        ],
+                        "homeServe": false
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241854557,
+                "eventId": 1007183240,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844205687,
+                        "odds": 3750,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:27Z",
+                        "oddsFractional": "11/4",
+                        "oddsAmerican": "275"
+                    },
+                    {
+                        "id": 2844205689,
+                        "odds": 1250,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:27Z",
+                        "oddsFractional": "1/4",
+                        "oddsAmerican": "-400"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Shnaider, Diana - Oz, Ipek",
+                "homeName": "Shnaider, Diana",
+                "awayName": "Oz, Ipek",
+                "start": "2020-12-24T09:42Z",
+                "group": "Antalya",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182332,
+                "groupId": 2000071288,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 1000462066,
+                        "name": "ITF Women",
+                        "englishName": "ITF Women"
+                    },
+                    {
+                        "id": 2000071288,
+                        "name": "Antalya",
+                        "englishName": "Antalya"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182332,
+                "open": true,
+                "matchClock": {
+                    "minute": 38,
+                    "second": 28,
+                    "running": true
+                },
+                "score": {
+                    "home": "15",
+                    "away": "15",
+                    "who": "HOME"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            4,
+                            -1,
+                            -1
+                        ],
+                        "away": [
+                            5,
+                            -1,
+                            -1
+                        ],
+                        "homeServe": false
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241840029,
+                "eventId": 1007182332,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844150951,
+                        "odds": 6000,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:09Z",
+                        "oddsFractional": "5/1",
+                        "oddsAmerican": "500"
+                    },
+                    {
+                        "id": 2844150953,
+                        "odds": 1120,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:09Z",
+                        "oddsFractional": "1/9",
+                        "oddsAmerican": "-835"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Gancev, Tara - Siskova, Anna",
+                "homeName": "Gancev, Tara",
+                "awayName": "Siskova, Anna",
+                "start": "2020-12-24T09:49Z",
+                "group": "Monastir",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183055,
+                "groupId": 2000056631,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 1000462066,
+                        "name": "ITF Women",
+                        "englishName": "ITF Women"
+                    },
+                    {
+                        "id": 2000056631,
+                        "name": "Monastir",
+                        "englishName": "Monastir"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183055,
+                "open": true,
+                "matchClock": {
+                    "minute": 31,
+                    "second": 3,
+                    "running": true
+                },
+                "score": {
+                    "home": "15",
+                    "away": "30",
+                    "who": "AWAY"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            1,
+                            0,
+                            -1
+                        ],
+                        "away": [
+                            6,
+                            0,
+                            -1
+                        ],
+                        "homeServe": true
+                    }
+                }
+            }
+        },
+        {
+            "event": {
+                "name": "Ibbou, Ines - Bouzgarrou, Mouna",
+                "homeName": "Ibbou, Ines",
+                "awayName": "Bouzgarrou, Mouna",
+                "start": "2020-12-24T10:05Z",
+                "group": "Monastir",
+                "type": "ET_MATCH",
+                "sport": "TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007182316,
+                "groupId": 2000056631,
+                "path": [
+                    {
+                        "id": 1000093193,
+                        "name": "Tennis",
+                        "englishName": "Tennis"
+                    },
+                    {
+                        "id": 1000462066,
+                        "name": "ITF Women",
+                        "englishName": "ITF Women"
+                    },
+                    {
+                        "id": 2000056631,
+                        "name": "Monastir",
+                        "englishName": "Monastir"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007182316,
+                "open": true,
+                "matchClock": {
+                    "minute": 18,
+                    "second": 7,
+                    "running": true
+                },
+                "score": {
+                    "home": "15",
+                    "away": "0",
+                    "who": "HOME"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            1,
+                            -1,
+                            -1
+                        ],
+                        "away": [
+                            1,
+                            -1,
+                            -1
+                        ],
+                        "homeServe": false
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241840173,
+                "eventId": 1007182316,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159551,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844151414,
+                        "odds": 1070,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:14Z",
+                        "oddsFractional": "1/16",
+                        "oddsAmerican": "-1430"
+                    },
+                    {
+                        "id": 2844151416,
+                        "odds": 8500,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:14Z",
+                        "oddsFractional": "15/2",
+                        "oddsAmerican": "750"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Petrochenko, Dmitry - Afanasyev, Ivan",
+                "homeName": "Petrochenko, Dmitry",
+                "awayName": "Afanasyev, Ivan",
+                "start": "2020-12-24T10:00Z",
+                "group": "Moscow Liga Pro",
+                "type": "ET_MATCH",
+                "sport": "TABLE_TENNIS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007183683,
+                "groupId": 2000123906,
+                "path": [
+                    {
+                        "id": 1000093215,
+                        "name": "Table Tennis",
+                        "englishName": "Table Tennis"
+                    },
+                    {
+                        "id": 2000123904,
+                        "name": "Russia",
+                        "englishName": "Russia"
+                    },
+                    {
+                        "id": 2000123906,
+                        "name": "Moscow Liga Pro",
+                        "englishName": "Moscow Liga Pro"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007183683,
+                "open": true,
+                "matchClock": {
+                    "minute": 0,
+                    "second": 0,
+                    "running": false,
+                    "disabled": true
+                },
+                "score": {
+                    "home": "8",
+                    "away": "8",
+                    "who": "AWAY"
+                },
+                "statistics": {
+                    "sets": {
+                        "home": [
+                            3,
+                            11,
+                            12,
+                            -1,
+                            -1
+                        ],
+                        "away": [
+                            11,
+                            6,
+                            14,
+                            -1,
+                            -1
+                        ],
+                        "homeServe": true
+                    }
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241903875,
+                "eventId": 1007183683,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1001159993,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844355944,
+                        "odds": 3200,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:23Z",
+                        "oddsFractional": "11/5",
+                        "oddsAmerican": "220"
+                    },
+                    {
+                        "id": 2844355946,
+                        "odds": 1330,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:23Z",
+                        "oddsFractional": "33/100",
+                        "oddsAmerican": "-305"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Bank of Taiwan - Jeoutai Basketball",
+                "homeName": "Bank of Taiwan",
+                "awayName": "Jeoutai Basketball",
+                "start": "2020-12-24T10:00Z",
+                "group": "Super Basketball League",
+                "type": "ET_MATCH",
+                "sport": "BASKETBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007168279,
+                "groupId": 2000112658,
+                "path": [
+                    {
+                        "id": 1000093204,
+                        "name": "Basketball",
+                        "englishName": "Basketball"
+                    },
+                    {
+                        "id": 2000112657,
+                        "name": "Chinese Taipei",
+                        "englishName": "Chinese Taipei"
+                    },
+                    {
+                        "id": 2000112658,
+                        "name": "Super Basketball League",
+                        "englishName": "Super Basketball League"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007168279,
+                "open": true,
+                "matchClock": {
+                    "minute": 7,
+                    "second": 27,
+                    "running": false,
+                    "period": "1st Quarter"
+                },
+                "score": {
+                    "home": "24",
+                    "away": "12",
+                    "info": "Q1: 24-12",
+                    "who": "HOME"
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241880028,
+                "eventId": 1007168279,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159732,
+                    "label": "Including Overtime"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844287833,
+                        "odds": 1300,
+                        "label": "Bank of Taiwan",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:16Z",
+                        "participant": "Bank of Taiwan",
+                        "oddsFractional": "3/10",
+                        "oddsAmerican": "-335"
+                    },
+                    {
+                        "id": 2844287835,
+                        "odds": 3350,
+                        "label": "Jeoutai Basketball",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:16Z",
+                        "participant": "Jeoutai Basketball",
+                        "oddsFractional": "47/20",
+                        "oddsAmerican": "235"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Incheon ET-Land Elephants - Changwon LG Sakers",
+                "homeName": "Incheon ET-Land Elephants",
+                "awayName": "Changwon LG Sakers",
+                "start": "2020-12-24T10:00Z",
+                "group": "KBL",
+                "type": "ET_MATCH",
+                "sport": "BASKETBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1006890453,
+                "groupId": 2000050629,
+                "path": [
+                    {
+                        "id": 1000093204,
+                        "name": "Basketball",
+                        "englishName": "Basketball"
+                    },
+                    {
+                        "id": 2000050628,
+                        "name": "South Korea",
+                        "englishName": "South Korea"
+                    },
+                    {
+                        "id": 2000050629,
+                        "name": "KBL",
+                        "englishName": "KBL"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1006890453,
+                "open": true,
+                "matchClock": {
+                    "minute": 9,
+                    "second": 49,
+                    "running": true,
+                    "period": "1st Quarter"
+                },
+                "score": {
+                    "home": "17",
+                    "away": "17",
+                    "info": "Q1: 17-17",
+                    "who": "HOME"
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241868650,
+                "eventId": 1006890453,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159732,
+                    "label": "Including Overtime"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844230511,
+                        "odds": 1820,
+                        "label": "Incheon ET-Land Elephants",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:20:30Z",
+                        "participant": "Incheon ET-Land Elephants",
+                        "oddsFractional": "4/5",
+                        "oddsAmerican": "-122"
+                    },
+                    {
+                        "id": 2844230518,
+                        "odds": 1940,
+                        "label": "Changwon LG Sakers",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:20:30Z",
+                        "participant": "Changwon LG Sakers",
+                        "oddsFractional": "23/25",
+                        "oddsAmerican": "-107"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Samsunglife Blueminx (W) - Shinhan Bank S-Birds (W)",
+                "homeName": "Samsunglife Blueminx (W)",
+                "awayName": "Shinhan Bank S-Birds (W)",
+                "start": "2020-12-24T10:00Z",
+                "group": "KBL (W)",
+                "type": "ET_MATCH",
+                "sport": "BASKETBALL",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1006917494,
+                "groupId": 2000051295,
+                "path": [
+                    {
+                        "id": 1000093204,
+                        "name": "Basketball",
+                        "englishName": "Basketball"
+                    },
+                    {
+                        "id": 2000050628,
+                        "name": "South Korea",
+                        "englishName": "South Korea"
+                    },
+                    {
+                        "id": 2000051295,
+                        "name": "KBL (W)",
+                        "englishName": "KBL (W)"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1006917494,
+                "open": true,
+                "matchClock": {
+                    "minute": 10,
+                    "second": 0,
+                    "running": false,
+                    "period": "2nd Quarter"
+                },
+                "score": {
+                    "home": "5",
+                    "away": "20",
+                    "info": "Q1: 5-20 | Q2: 0-0",
+                    "who": "UNKNOWN"
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241858681,
+                "eventId": 1006917494,
+                "main": true,
+                "live": true,
+                "startingPrice": false,
+                "criterion": {
+                    "id": 1001159732,
+                    "label": "Including Overtime"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844232874,
+                        "odds": 4200,
+                        "label": "Samsunglife Blueminx (W)",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:19:26Z",
+                        "participant": "Samsunglife Blueminx (W)",
+                        "oddsFractional": "16/5",
+                        "oddsAmerican": "320"
+                    },
+                    {
+                        "id": 2844232880,
+                        "odds": 1210,
+                        "label": "Shinhan Bank S-Birds (W)",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:19:26Z",
+                        "participant": "Shinhan Bank S-Birds (W)",
+                        "oddsFractional": "1/5",
+                        "oddsAmerican": "-480"
+                    }
+                ],
+                "prematch": true,
+                "cashOutStatus": "ENABLED"
+            }
+        },
+        {
+            "event": {
+                "name": "Vici Gaming - Suning Gaming",
+                "homeName": "Vici Gaming",
+                "awayName": "Suning Gaming",
+                "start": "2020-12-24T07:59Z",
+                "group": "Demacia Cup",
+                "type": "ET_MATCH",
+                "sport": "LEAGUE_OF_LEGENDS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007177058,
+                "groupId": 2000117953,
+                "path": [
+                    {
+                        "id": 2000077768,
+                        "name": "Esports",
+                        "englishName": "Esports"
+                    },
+                    {
+                        "id": 2000117177,
+                        "name": "League of Legends",
+                        "englishName": "League of Legends"
+                    },
+                    {
+                        "id": 2000117953,
+                        "name": "Demacia Cup",
+                        "englishName": "Demacia Cup"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007177058,
+                "open": true,
+                "matchClock": {
+                    "minute": 0,
+                    "second": 0,
+                    "running": false,
+                    "disabled": true
+                },
+                "score": {
+                    "home": "2",
+                    "away": "0",
+                    "info": "Best of 5",
+                    "who": "UNKNOWN"
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241894547,
+                "eventId": 1007177058,
+                "open": false,
+                "suspended": true,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1004872214,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844324205,
+                        "odds": 1080,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:08:18Z",
+                        "oddsFractional": "1/14",
+                        "oddsAmerican": "-1250"
+                    },
+                    {
+                        "id": 2844324207,
+                        "odds": 7000,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:08:18Z",
+                        "oddsFractional": "6/1",
+                        "oddsAmerican": "600"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "SUSPENDED"
+            }
+        },
+        {
+            "event": {
+                "name": "Hanwha Life - Gen.G",
+                "homeName": "Hanwha Life",
+                "awayName": "Gen.G",
+                "start": "2020-12-24T10:00Z",
+                "group": "KeSPA Cup",
+                "type": "ET_MATCH",
+                "sport": "LEAGUE_OF_LEGENDS",
+                "state": "STARTED",
+                "liveBetOffers": true,
+                "openForLiveBetting": true,
+                "id": 1007167855,
+                "groupId": 2000117954,
+                "path": [
+                    {
+                        "id": 2000077768,
+                        "name": "Esports",
+                        "englishName": "Esports"
+                    },
+                    {
+                        "id": 2000117177,
+                        "name": "League of Legends",
+                        "englishName": "League of Legends"
+                    },
+                    {
+                        "id": 2000117954,
+                        "name": "KeSPA Cup",
+                        "englishName": "KeSPA Cup"
+                    }
+                ]
+            },
+            "liveData": {
+                "eventId": 1007167855,
+                "open": true,
+                "matchClock": {
+                    "minute": 0,
+                    "second": 0,
+                    "running": false,
+                    "disabled": true
+                },
+                "score": {
+                    "home": "0",
+                    "away": "0",
+                    "info": "Best of 1",
+                    "who": "UNKNOWN"
+                }
+            },
+            "mainBetOffer": {
+                "id": 2241901685,
+                "eventId": 1007167855,
+                "open": false,
+                "suspended": true,
+                "main": true,
+                "live": true,
+                "criterion": {
+                    "id": 1004872214,
+                    "label": "Match Odds"
+                },
+                "betOfferType": {
+                    "id": 2,
+                    "name": "Match",
+                    "englishName": "Match"
+                },
+                "outcomes": [
+                    {
+                        "id": 2844346167,
+                        "odds": 1300,
+                        "label": "1",
+                        "type": "OT_ONE",
+                        "changedDate": "2020-12-24T10:14:31Z",
+                        "oddsFractional": "3/10",
+                        "oddsAmerican": "-335"
+                    },
+                    {
+                        "id": 2844346169,
+                        "odds": 3300,
+                        "label": "2",
+                        "type": "OT_TWO",
+                        "changedDate": "2020-12-24T10:14:31Z",
+                        "oddsFractional": "23/10",
+                        "oddsAmerican": "230"
+                    }
+                ],
+                "prematch": false,
+                "cashOutStatus": "SUSPENDED"
+            }
+        }
+    ],
+    "group": {
+        "id": 1,
+        "sport": "NOT-SPECIFIED",
+        "groups": [
+            {
+                "id": 1000093190,
+                "sport": "FOOTBALL",
+                "name": "Football",
+                "groups": [
+                    {
+                        "id": 1000461813,
+                        "sport": "FOOTBALL",
+                        "name": "Spain",
+                        "groups": [
+                            {
+                                "id": 2000056488,
+                                "sport": "FOOTBALL",
+                                "name": "Division de Honor Juvenil"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1000242145,
+                        "sport": "FOOTBALL",
+                        "name": "International Youth Friendlies",
+                        "groups": [
+                            {
+                                "id": 2000057396,
+                                "sport": "FOOTBALL",
+                                "name": "Under 19"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1000461746,
+                        "sport": "FOOTBALL",
+                        "name": "Japan",
+                        "groups": [
+                            {
+                                "id": 2000107941,
+                                "sport": "FOOTBALL",
+                                "name": "Empress's Cup (W)"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1000461821,
+                        "sport": "FOOTBALL",
+                        "name": "Turkey",
+                        "groups": [
+                            {
+                                "id": 2000050304,
+                                "sport": "FOOTBALL",
+                                "name": "3. Ligi"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1000093193,
+                "sport": "TENNIS",
+                "name": "Tennis",
+                "groups": [
+                    {
+                        "id": 2000054086,
+                        "sport": "TENNIS",
+                        "name": "ITF Men",
+                        "groups": [
+                            {
+                                "id": 2000117964,
+                                "sport": "TENNIS",
+                                "name": "Antalya"
+                            },
+                            {
+                                "id": 2000117962,
+                                "sport": "TENNIS",
+                                "name": "Monastir"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 1000462066,
+                        "sport": "TENNIS",
+                        "name": "ITF Women",
+                        "groups": [
+                            {
+                                "id": 2000071288,
+                                "sport": "TENNIS",
+                                "name": "Antalya"
+                            },
+                            {
+                                "id": 2000056631,
+                                "sport": "TENNIS",
+                                "name": "Monastir"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1000093204,
+                "sport": "BASKETBALL",
+                "name": "Basketball",
+                "groups": [
+                    {
+                        "id": 2000112657,
+                        "sport": "BASKETBALL",
+                        "name": "Chinese Taipei",
+                        "groups": [
+                            {
+                                "id": 2000112658,
+                                "sport": "BASKETBALL",
+                                "name": "Super Basketball League"
+                            }
+                        ]
+                    },
+                    {
+                        "id": 2000050628,
+                        "sport": "BASKETBALL",
+                        "name": "South Korea",
+                        "groups": [
+                            {
+                                "id": 2000050629,
+                                "sport": "BASKETBALL",
+                                "name": "KBL"
+                            },
+                            {
+                                "id": 2000051295,
+                                "sport": "BASKETBALL",
+                                "name": "KBL (W)"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 2000077768,
+                "sport": "ESPORTS",
+                "name": "Esports",
+                "groups": [
+                    {
+                        "id": 2000117177,
+                        "sport": "LEAGUE_OF_LEGENDS",
+                        "name": "League of Legends",
+                        "groups": [
+                            {
+                                "id": 2000117953,
+                                "sport": "LEAGUE_OF_LEGENDS",
+                                "name": "Demacia Cup"
+                            },
+                            {
+                                "id": 2000117954,
+                                "sport": "LEAGUE_OF_LEGENDS",
+                                "name": "KeSPA Cup"
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "id": 1000093215,
+                "sport": "TABLE_TENNIS",
+                "name": "Table Tennis",
+                "groups": [
+                    {
+                        "id": 2000123904,
+                        "sport": "TABLE_TENNIS",
+                        "name": "Russia",
+                        "groups": [
+                            {
+                                "id": 2000123906,
+                                "sport": "TABLE_TENNIS",
+                                "name": "Moscow Liga Pro"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
